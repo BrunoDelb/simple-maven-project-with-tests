@@ -15,5 +15,3 @@
           archive 'target/*.jar' 
         } 
       } 
-
-
